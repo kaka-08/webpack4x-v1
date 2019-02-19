@@ -2,7 +2,7 @@
 
 * **src**  项目主目录
 * **src/common**  项目公共包，存放axios，base function等；
-* **src/component**  公共组件，非业务耦合，以便将来脚手架开源
+* **src/component**  公共组件，非业务耦合，以便将来脚手架开放
 * **src/page**  项目页面，主业务
 * **src/static**  静态资源模块，公共image，lib等 
 * **src/util**  工具类
