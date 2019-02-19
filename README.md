@@ -13,9 +13,14 @@
 
 # 二 项目启动和编译命令
 
- 拉取项目代码之后
+ 拉取项目代码之后 进入项目目录
 * yarn install  安装依赖
-* **npm run build:dev** 开发环境编译
-* **npm run build:prod**  生产环境编译
-* **npm run start:dev** 开发环境启动
-* **npm run start:prod**  生产环境启动
+* npm run build:dev 开发环境编译
+* npm run build:prod  生产环境编译
+* npm run start:dev 开发环境启动
+* npm run start:prod  生产环境启动
+
+
+# 三 版本说明
+这是第一版，做了简单的环境区分，package.json没有过多依赖
+如果需要自己搭建项目引用依赖，切记： 依赖的版本要一致，在搭建项目的过程当中，因为版本不适配导致的耗时是不可预估的
