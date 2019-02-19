@@ -14,7 +14,7 @@
 # 二 项目启动和编译命令
 
  拉取项目代码之后
-* **yarn install **  安装依赖
+* yarn install  安装依赖
 * **npm run build:dev** 开发环境编译
 * **npm run build:prod**  生产环境编译
 * **npm run start:dev** 开发环境启动
